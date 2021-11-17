@@ -4,9 +4,13 @@ body {
   background: seashell;
   padding: 0 2em;
   font-family: sans-serif;
+  font-size: 1.2rem;
 }
-
-.actions ul{
+input[type="text"],
+button {
+  font-size: 1.2rem;
+}
+.actions ul {
   list-style-type: none;
   display: flex;
   justify-content: flex-start;
@@ -14,23 +18,23 @@ body {
   padding: 0;
   margin-bottom: 0;
 }
-.actions ul li{
+.actions ul li {
   margin-right: 1em;
   cursor: pointer;
 }
-.actions ul li:hover{
+.actions ul li:hover {
   border-bottom: 1px solid;
 }
 
-footer{
+footer {
   position: absolute;
   bottom: 10px;
 }
 
-footer a{
+footer a {
   text-decoration: none;
   color: black;
 }
-footer a:hover{
+footer a:hover {
   text-decoration: underline;
 }
