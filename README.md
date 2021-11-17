@@ -1,8 +1,10 @@
 # todo-app
 Todo app developed in react.
 * add a new task
-* show all
-* show completed
-* show remaining
+* remove task
+* show all tasks
+* show completed tasks
+* show remaining tasks
 
-![todo-app](https://user-images.githubusercontent.com/19623279/142268026-0e1f500d-e497-4038-a326-de1c15e841ed.png)
+![todo-app](https://user-images.githubusercontent.com/19623279/142272850-cc67ec51-a129-408b-9cbf-652ab27010b5.png)
+
