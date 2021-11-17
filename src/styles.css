@@ -1,0 +1,36 @@
+body {
+  width: 500px;
+  margin: auto;
+  background: seashell;
+  padding: 0 2em;
+  font-family: sans-serif;
+}
+
+.actions ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-start;
+  margin: 2em 0;
+  padding: 0;
+  margin-bottom: 0;
+}
+.actions ul li{
+  margin-right: 1em;
+  cursor: pointer;
+}
+.actions ul li:hover{
+  border-bottom: 1px solid;
+}
+
+footer{
+  position: absolute;
+  bottom: 10px;
+}
+
+footer a{
+  text-decoration: none;
+  color: black;
+}
+footer a:hover{
+  text-decoration: underline;
+}
